@@ -1,1 +1,1 @@
-# seminar
+# for software_seminar
